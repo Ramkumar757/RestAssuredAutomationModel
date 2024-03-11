@@ -1,0 +1,79 @@
+12:53:20.938 [main] INFO  api.test.UserApiTest - =======>Creating user<=======
+12:53:28.878 [main] INFO  api.test.UserApiTest - =======> User Created<=======
+12:53:28.907 [main] INFO  api.test.UserApiTest - =======>Getting user<=======
+12:53:31.882 [main] INFO  api.test.UserApiTest - =======>User <=======
+12:53:31.893 [main] INFO  api.test.UserApiTest - =======>Update user<=======
+12:53:34.757 [main] INFO  api.test.UserApiTest - =======> user Updated<=======
+12:53:34.763 [main] INFO  api.test.UserApiTest - =======> Delete user<=======
+12:53:36.996 [main] INFO  api.test.UserApiTest - =======> user Deleted<=======
+13:08:11.548 [main] DEBUG api.test.UserApiTest - debugging.......
+13:08:11.615 [main] INFO  api.test.UserApiTest - =======>Creating user<=======
+13:08:12.248 [main] DEBUG api.test.UserApiTest - debugging.......
+13:08:12.319 [main] INFO  api.test.UserApiTest - =======>Creating user<=======
+13:08:20.462 [main] INFO  api.test.UserApiTest - =======> User Created<=======
+13:08:20.481 [main] INFO  api.test.UserApiTest - =======>Getting user<=======
+13:08:20.854 [main] INFO  api.test.UserApiTest - =======> User Created<=======
+13:08:20.868 [main] INFO  api.test.UserApiTest - =======>Getting user<=======
+13:08:25.183 [main] INFO  api.test.UserApiTest - =======>Update user<=======
+13:08:25.775 [main] INFO  api.test.UserApiTest - =======>User <=======
+13:08:25.781 [main] INFO  api.test.UserApiTest - =======>Update user<=======
+13:08:28.832 [main] INFO  api.test.UserApiTest - =======> user Updated<=======
+13:08:28.840 [main] INFO  api.test.UserApiTest - =======> Delete user<=======
+13:08:29.289 [main] INFO  api.test.UserApiTest - =======> user Updated<=======
+13:08:29.296 [main] INFO  api.test.UserApiTest - =======> Delete user<=======
+13:08:31.264 [main] INFO  api.test.UserApiTest - =======> user Deleted<=======
+13:09:47.627 [main] DEBUG api.test.UserApiTest - debugging.......
+13:09:47.681 [main] INFO  api.test.UserApiTest - =======>Creating user<=======
+13:09:54.722 [main] INFO  api.test.UserApiTest - =======> User Created<=======
+13:09:54.738 [main] INFO  api.test.UserApiTest - =======>reading user info<=======
+13:09:57.127 [main] INFO  api.test.UserApiTest - =======>User info displayed <=======
+13:09:57.138 [main] INFO  api.test.UserApiTest - =======>Update user<=======
+13:09:59.360 [main] INFO  api.test.UserApiTest - =======> user Updated<=======
+13:09:59.368 [main] INFO  api.test.UserApiTest - =======> Delete user<=======
+13:10:01.281 [main] INFO  api.test.UserApiTest - =======> user Deleted<=======
+20:26:58.364 [main] DEBUG api.test.UserApiTest2 - debugging.......
+20:26:58.393 [main] INFO  api.test.UserApiTest2 - =======>Creating user<=======
+20:26:58.433 [main] INFO  api.test.UserApiTest2 - =======>reading user info<=======
+20:26:58.447 [main] INFO  api.test.UserApiTest2 - =======>Update user<=======
+20:26:58.457 [main] INFO  api.test.UserApiTest2 - =======> Delete user<=======
+20:28:53.897 [main] DEBUG api.test.UserApiTest2 - debugging.......
+20:28:53.940 [main] INFO  api.test.UserApiTest2 - =======>Creating user<=======
+20:28:53.970 [main] INFO  api.test.UserApiTest2 - =======>reading user info<=======
+20:28:53.987 [main] INFO  api.test.UserApiTest2 - =======>Update user<=======
+20:28:54.002 [main] INFO  api.test.UserApiTest2 - =======> Delete user<=======
+20:30:44.395 [main] DEBUG api.test.UserApiTest2 - debugging.......
+20:30:44.427 [main] INFO  api.test.UserApiTest2 - =======>Creating user<=======
+20:30:51.440 [main] INFO  api.test.UserApiTest2 - =======> User Created<=======
+20:30:51.480 [main] INFO  api.test.UserApiTest2 - =======>reading user info<=======
+20:30:54.461 [main] INFO  api.test.UserApiTest2 - =======>User info displayed <=======
+20:30:54.469 [main] INFO  api.test.UserApiTest2 - =======>Update user<=======
+20:30:56.813 [main] INFO  api.test.UserApiTest2 - =======> user Updated<=======
+20:30:56.822 [main] INFO  api.test.UserApiTest2 - =======> Delete user<=======
+20:30:59.689 [main] INFO  api.test.UserApiTest2 - =======> user Deleted<=======
+09:10:45.319 [main] DEBUG api.test.UserApiTest2 - debugging.......
+09:10:45.353 [main] INFO  api.test.UserApiTest2 - =======>Creating user<=======
+09:10:51.998 [main] INFO  api.test.UserApiTest2 - =======> User Created<=======
+09:10:52.034 [main] INFO  api.test.UserApiTest2 - =======>reading user info<=======
+09:10:54.749 [main] INFO  api.test.UserApiTest2 - =======>User info displayed <=======
+09:10:54.758 [main] INFO  api.test.UserApiTest2 - =======>Update user<=======
+09:10:57.301 [main] INFO  api.test.UserApiTest2 - =======> user Updated<=======
+09:10:57.304 [main] INFO  api.test.UserApiTest2 - =======> Delete user<=======
+09:10:59.875 [main] INFO  api.test.UserApiTest2 - =======> user Deleted<=======
+09:11:58.736 [main] DEBUG api.test.UserApiTest2 - debugging.......
+09:11:58.766 [main] INFO  api.test.UserApiTest2 - =======>Creating user<=======
+09:12:05.294 [main] INFO  api.test.UserApiTest2 - =======> User Created<=======
+09:12:05.333 [main] INFO  api.test.UserApiTest2 - =======>reading user info<=======
+09:12:08.028 [main] INFO  api.test.UserApiTest2 - =======>User info displayed <=======
+09:12:08.032 [main] INFO  api.test.UserApiTest2 - =======>Update user<=======
+09:12:10.898 [main] INFO  api.test.UserApiTest2 - =======> user Updated<=======
+09:12:10.902 [main] INFO  api.test.UserApiTest2 - =======> Delete user<=======
+09:12:12.820 [main] INFO  api.test.UserApiTest2 - =======> user Deleted<=======
+09:16:41.639 [main] DEBUG api.test.UserApiTest2 - debugging.......
+09:16:41.664 [main] INFO  api.test.UserApiTest2 - =======>Creating user<=======
+09:16:48.207 [main] INFO  api.test.UserApiTest2 - =======> User Created<=======
+09:16:48.247 [main] INFO  api.test.UserApiTest2 - =======>reading user info<=======
+09:16:50.862 [main] INFO  api.test.UserApiTest2 - =======>User info displayed <=======
+09:16:50.866 [main] INFO  api.test.UserApiTest2 - =======>Update user<=======
+09:16:53.101 [main] INFO  api.test.UserApiTest2 - =======> user Updated<=======
+09:16:53.106 [main] INFO  api.test.UserApiTest2 - =======> Delete user<=======
+09:16:55.978 [main] INFO  api.test.UserApiTest2 - =======> user Deleted<=======
